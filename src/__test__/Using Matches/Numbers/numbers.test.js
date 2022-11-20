@@ -11,3 +11,5 @@ test("two plus two", () => {
   expect(value).toBe(4);
   expect(value).toEqual(4);
 });
+
+// npm test numbers.test.js
