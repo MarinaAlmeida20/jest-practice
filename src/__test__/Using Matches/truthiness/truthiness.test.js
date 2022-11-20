@@ -30,3 +30,5 @@ test("zero", () => {
   expect(z).not.toBeTruthy();
   expect(z).toBeFalsy();
 });
+
+// npm test truthiness.test.js
