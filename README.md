@@ -1,3 +1,3 @@
 # Learning Jest
 
-This repo is exclusivelly to learn Jest [Jest](https://jestjs.io/).
+This repo is exclusively to learn [Jest](https://jestjs.io/).
